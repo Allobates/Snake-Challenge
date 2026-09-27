@@ -17,7 +17,7 @@ public class DynamicArray<T> {
     public int size() {
         return size;
     }
- //// -w- -w- -
+ //// pruebasss :P
  /// .w.
  /// -...
     public int capacity() {
