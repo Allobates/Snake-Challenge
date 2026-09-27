@@ -17,9 +17,7 @@ public class DynamicArray<T> {
     public int size() {
         return size;
     }
- //// pruebasss :P
- /// .w.
- /// -...
+ 
     public int capacity() {
         return capacity;
     }
@@ -29,7 +27,7 @@ public class DynamicArray<T> {
         checkIndex(index);
         return (T) data[index];
     }
- 
+ /// prueba 2
     public void set(int index, T value) {
         checkIndex(index);
         data[index] = value;
